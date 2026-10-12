@@ -1,5 +1,9 @@
 # Minecraft на Steam Deck / Minecraft on Steam Deck
 
+[![Видео / Video](https://img.youtube.com/vi/1bNRRa36DOA/hqdefault.jpg)](https://youtu.be/1bNRRa36DOA)
+
+▶️ **Видеоинструкция / Video guide:** https://youtu.be/1bNRRa36DOA
+
 > [!IMPORTANT]
 > **RU:** Minecraft нужно **КУПИТЬ в Google Play** на том же Google-аккаунте, которым ты входишь в лаунчер. Без покупки игра не скачается.
 >
